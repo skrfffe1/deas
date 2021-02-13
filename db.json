@@ -1,1 +1,11 @@
 
+[
+{"type":"header","version":"5.0.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"deas"},
+{"type":"table","name":"events","database":"deas","data":
+[
+{"event_id":"1","semester_id":"1","school_year_id":"1","student_monitor_id":"1800656","event_name":"Clean Up Drive","event_date":"January 12, 2021","event_time_in":"7:00AM","event_time_in_duration":"30","event_time_out":"05:00PM","event_time_out_duration":"30","event_location":"College Building","created_at":"2021-02-06 12:46:12","updated_at":"2021-02-06 12:46:12"},
+{"event_id":"2","semester_id":"1","school_year_id":"1","student_monitor_id":"1800656","event_name":"Acquaintance Party","event_date":"May 12, 2021","event_time_in":"7:00AM","event_time_in_duration":"30","event_time_out":"05:00PM","event_time_out_duration":"30","event_location":"HRDC","created_at":"2021-02-06 12:51:25","updated_at":"2021-02-06 12:51:25"}
+]
+}
+]
