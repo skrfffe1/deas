@@ -16,6 +16,7 @@
 			"event_location":"College Building",
 			"created_at":"2021-02-06 12:46:12",
 			"updated_at":"2021-02-06 12:46:12"},
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -30,6 +31,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -44,6 +46,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -58,6 +61,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -72,6 +76,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -86,6 +91,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -100,6 +106,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -114,6 +121,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -128,6 +136,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -142,6 +151,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
@@ -156,6 +166,7 @@
 			"event_location":"HRDC",
 			"created_at":"2021-02-06 12:51:25",
 			"updated_at":"2021-02-06 12:51:25"
+		},
 		{
 			"event_id":"2",
 			"semester_id":"1",
