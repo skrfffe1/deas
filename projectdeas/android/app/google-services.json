@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "923074066820",
+    "firebase_url": "https://deas-21da3-default-rtdb.firebaseio.com",
+    "project_id": "deas-21da3",
+    "storage_bucket": "deas-21da3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923074066820:android:f10cee5939cceba66545d1",
+        "android_client_info": {
+          "package_name": "com.example.projectdeas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923074066820-nvojurd8bl76sh697s5pfthc8pkelu15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXoUybIUxFs0cjZQksy9Twsw11nY9DeQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923074066820-nvojurd8bl76sh697s5pfthc8pkelu15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
